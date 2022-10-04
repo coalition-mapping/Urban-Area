@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Urban Area",
+    "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hills"],
+    "food": 1,
+    "production": 1,
+    "gold": 1,
+    "science": 1,
+    "culture": 1,
+    "turnsToBuild": 3,
+    "techRequired": "Urbanization"
+  }
+]
