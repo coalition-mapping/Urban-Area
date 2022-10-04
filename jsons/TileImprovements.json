@@ -1,7 +1,7 @@
 [
   {
     "name": "Urban Area",
-    "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hills"],
+    "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
     "food": 1,
     "production": 1,
     "gold": 1,
