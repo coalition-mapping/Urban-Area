@@ -6,126 +6,133 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 ImprovementIcons/Urban Area
   rotate: false
-  xy: 4, 46
+  xy: 4, 49
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Urban Area
+  rotate: false
+  xy: 508, 70
+  size: 64, 93
+  orig: 64, 93
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Atomic era
   rotate: false
-  xy: 508, 87
+  xy: 582, 176
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Atomic era2
   rotate: false
-  xy: 582, 180
+  xy: 654, 183
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Atomic era3
   rotate: false
-  xy: 212, 168
+  xy: 212, 171
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Beyond the Future
   rotate: false
-  xy: 212, 82
+  xy: 212, 85
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Future era
   rotate: false
-  xy: 286, 168
+  xy: 286, 171
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Future era2
   rotate: false
-  xy: 654, 180
+  xy: 726, 183
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Future era3
   rotate: false
-  xy: 726, 180
+  xy: 798, 183
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Future era4
   rotate: false
-  xy: 798, 180
+  xy: 870, 183
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Future era5
   rotate: false
-  xy: 870, 180
+  xy: 942, 183
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Future era6
   rotate: false
-  xy: 286, 82
+  xy: 286, 85
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Future era7
   rotate: false
-  xy: 360, 168
+  xy: 360, 171
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Information era
   rotate: false
-  xy: 942, 173
+  xy: 212, 4
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Information era2
   rotate: false
-  xy: 212, 4
+  xy: 284, 7
   size: 60, 70
   orig: 60, 70
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Information era3
   rotate: false
-  xy: 360, 82
+  xy: 360, 85
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Information era4
   rotate: false
-  xy: 434, 168
+  xy: 434, 171
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Information era5
   rotate: false
-  xy: 434, 82
+  xy: 434, 85
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Urban Area-Information era6
   rotate: false
-  xy: 508, 168
+  xy: 508, 171
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
